@@ -1,0 +1,2 @@
+SCREENSHOT
+![Tableau AirBnB screenshoot](https://github.com/user-attachments/assets/0759cce1-9564-48a5-be4b-0ac0e23c2ecf)
